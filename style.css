@@ -37,3 +37,25 @@ body {
     text-decoration: none;
     display: block;
     padding: 10px;
+    background: #34495e;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.sidebar ul li a:hover {
+    background: #1abc9c;
+}
+
+.submenu {
+    margin-left: 15px;
+    display: none;
+}
+
+.dropdown:hover .submenu {
+    display: block;
+}
+
+.main-content {
+    flex: 1;
+    padding: 20px;
+}
