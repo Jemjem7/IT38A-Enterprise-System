@@ -32,3 +32,47 @@ body {
 .sidebar ul {
     list-style: none;
 }
+.sidebar ul li {
+    margin-bottom: 10px;
+}
+
+.sidebar ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    background: #4c5c6c;
+    border-radius: 5px;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+.sidebar ul li a:hover {
+    background: #6d7d8b;
+}
+
+.sidebar ul li .submenu {
+    margin-top: 5px;
+    margin-left: 10px;
+    display: none;
+}
+
+.sidebar ul li:hover .submenu {
+    display: block;
+}
+
+/* Main content area */
+.main-content {
+    flex: 1;
+    padding: 20px;
+    background: #fff;
+}
+
+.main-content h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.main-content p {
+    font-size: 16px;
+}
