@@ -71,7 +71,9 @@ Outcomes & Consequences
 * The brand suffered severe damage to its reputation because customers encountered many out-of-stock challenges.
 * the implementation of ERP systems acted as a significant cause of Target Canada's $2 billion financial loss which led to the company closing all Canadian stores.
 
+
 Comparative Analysis
+
 
                                John deere (Success)                                   Target Canada (Failure)
  
@@ -98,13 +100,27 @@ Comparative Analysis
                               and supply chain optimization.
 
 
+failure factors:
 
+-An ill-advised fast-paced deployment prevented necessary system optimization tasks.
+-The system did not adapt to Canadian retail market requirements.
+-System operation problems occurred because the organization failed to provide proper training to its employees.
+-Integration problems developed because Target failed to synchronize its operations with its ERP solution providers.
 
 
 Customization & Testing
 
 
+The outcome of ERP system implementation depended heavily on successful customization and testing processes in both organizations.
 
+John Deere (Success):
+
+The ERP system underwent customization specifically for John Deere to handle supply chain management processes and inventory control functions which followed global and regional standards.
+Full deployment of the ERP systems occurred after mutiple stages of testing which included both pilot projects and stress tests to discover and fix problems prior to go-live so operational integration and risk reduction could be achieved.
+Target Canada (Failure):
+
+Implementation of an unusable ERP system in the Canadian market caused integration problems along with operational requirements mismatches.
+The system suffered from insufficient testing thus vital problems emerged after deployment such as data mistakes and inventory control faults that resulted in substantial operational interruptions.
 
 
 
@@ -116,7 +132,28 @@ Customization & Testing
 Key Takeaways from Success & Failure
 
 
+*Thorough planning combined with phased testing along with proper training led John Deere to its success.
+The failure of Target Canada emerged from their hurried project schedule combined with inadequate testing and their inability to meet market demands.
+The implementation of future systems succeeds when stakeholders participate while planning occurs realistically and deployment happens through multiple stages.
+
+
+
 
 Recommendations for Future Implementations
 
+
+- The implementation process should follow a multi-step approach because quick deployments of enterprise systems often lead to detection of issues during pilot exams.
+- Levels of training and change management should receive financial backing before a system gets deployed to employees.
+- ERP solutions need customization as well as localization to meet the requirements of specific business operations and regional differences in requirements.
+- The testing phase conducted prior to complete deployment allows organizations to detect and solve integration and compatibility problems ahead of time.
+- The system should focus on precise data management and smooth transition to eliminate mistakes in inventory control together with pricing and operational systems.
+
+Conlusion
+
+Proper execution of enterprise system deployment will create business growth alongside efficiency improvements. 
+John Deere’s method demonstrates the significance of detailed preparation and transformation management but Target Canada's collapse underscores the risks of fast-paced delivery and insufficient testing. 
+Organizations need to study these cases to achieve maximum benefit from their internal system implementation strategies.
+
+
+case study 2 reference: https://medium.com/1erp/target-in-canada-an-example-of-an-erp-failure-1e9207ff21d7
 
